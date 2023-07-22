@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rashedul Islam</h1>
 <h3 align="center">A passionate Junior developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a>rashedulislam.edge@gmail.com </a> </h3>
 <p align="left">
 </p>
 
